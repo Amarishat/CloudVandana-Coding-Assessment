@@ -1,0 +1,12 @@
+.tbl {
+    border: 1px solid black;
+}
+
+#btn1 {
+    color: rgb(33, 38, 38);
+}
+
+.btn2 {
+    color: rgb(33, 37, 37);
+    width: 200px;
+}

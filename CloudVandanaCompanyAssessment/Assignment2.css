@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(195, 195, 202, 0.966);
+}
+
+.container {
+    margin: 50px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: red;
+    font-size: larger;
+}
+
+button {
+    border-radius: 90%;
+    background-color: rgb(174, 187, 187);
+}
